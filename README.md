@@ -1,6 +1,6 @@
-#🏥 Hospital Management System
+🏥 Hospital Management System
 
-#📖 Overview
+📖 Overview
 Hospital Management System is a console-based Java project developed using JDBC and MySQL. It helps in managing patients, doctors, appointments, and hospital records efficiently.
 
 ✨ Features
