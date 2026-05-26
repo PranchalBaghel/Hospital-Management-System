@@ -39,7 +39,7 @@ Hospital Management System is a console-based Java project developed using JDBC 
 
 ---
 
-Database Schema : 
+**Database Schema** : 
 <img width="1199" height="784" alt="Screenshot (253)" src="https://github.com/user-attachments/assets/c971f04d-4af1-46a2-af73-d9604870f169" />
 
 ---
