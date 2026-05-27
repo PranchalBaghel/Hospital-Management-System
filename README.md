@@ -1,11 +1,11 @@
 # Hospital Management System 🏥 
 
-## 🔗 📖 **Overview**
+##  📖 **Overview**
 Hospital Management System is a console-based Java project developed using JDBC and MySQL. It helps in managing patients, doctors, appointments, and hospital records efficiently.
 
 ---
 
-## 🔗 ✨ **Features**
+##  ✨ **Features**
 - Patient Management
 - Doctor Management
 - Appointment Booking
@@ -14,7 +14,7 @@ Hospital Management System is a console-based Java project developed using JDBC 
 
 ---
 
-## 🔗 🛠 **Technologies Used**
+##  🛠 **Technologies Used**
 - Java
 - JDBC
 - MySQL
@@ -22,7 +22,7 @@ Hospital Management System is a console-based Java project developed using JDBC 
 
 ---
 
-## 🔗 📚 **Concepts Covered**
+##  📚 **Concepts Covered**
 - OOPs Concepts
 - JDBC Connectivity
 - Exception Handling
@@ -31,7 +31,7 @@ Hospital Management System is a console-based Java project developed using JDBC 
 
 ---
 
-## 🔗 ▶️ **How to Run**
+##  ▶️ **How to Run**
 1. Open the project in Eclipse
 2. Configure MySQL Database
 3. Add MySQL JDBC Driver
@@ -44,7 +44,7 @@ Hospital Management System is a console-based Java project developed using JDBC 
 
 ---
 
-## 🔗 👨‍💻 **Author**
+##  👨‍💻 **Author**
 Pranchal Baghel
 
 
